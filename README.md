@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnkushChhabra02
-- 👀 I’m interested in coding
+- 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning at Chandigarh University
 - 📫 https://www.linkedin.com/in/ankushchhabra02/
 
