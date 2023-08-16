@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HJ3HOA8N9lJIbnIyCzCJ0uKNqGS9Cs1o/view?usp=sharing](https://drive.google.com/file/d/1HJ3HOA8N9lJIbnIyCzCJ0uKNqGS9Cs1o/view?usp=sharing)
 
-- ⚡ Fun fact **I always work while listening to music.**
+- ⚡ Fun fact **I mostly study while listening to music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
