@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ankushchhabra2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HJ3HOA8N9lJIbnIyCzCJ0uKNqGS9Cs1o/view?usp=sharing](https://drive.google.com/file/d/1HJ3HOA8N9lJIbnIyCzCJ0uKNqGS9Cs1o/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1m2jDnL64F4oJf_J9mCPWZna9arpTkI1Z/view?usp=sharing](https://drive.google.com/file/d/1m2jDnL64F4oJf_J9mCPWZna9arpTkI1Z/view?usp=sharing)
 
 - ⚡ Fun fact **I mostly study while listening to music.**
 
