@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Chhabra</h1>
-<br></br>
 [![An image of @ankushchhabra02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankushchhabra02)](https://holopin.io/@ankushchhabra02)
-<br></br>
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on **increasing programming skills**
