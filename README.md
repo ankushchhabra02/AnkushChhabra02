@@ -1,8 +1,9 @@
 # 💫 About Me:
 Hi there, I'm Ankush Chhabra! 👋<br><br>🚀 Full-Stack Developer | React.js Enthusiast | Problem Solver<br><br>I'm a Computer Science and Engineering graduate from Chandigarh University with a passion for building scalable full-stack applications and solving challenging problems using Java, JavaScript, React.js, and Node.js.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://ankushchhabra02.vercel.app)  
+
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://ankushchhabra.vercel.app)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankushchhabra02) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankushchhabra02) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankushchhabra02) 
