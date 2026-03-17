@@ -10,7 +10,7 @@ I'm a Computer Science and Engineering graduate from Chandigarh University with 
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://ankushchhabra02.vercel.app)  
 <br clear="right"/>
 
-## ⚡ Current Projects
+## ⚡ Current Projects:
 
 * 🔥 **[vortex](https://github.com/ankushchhabra02/vortex)** — self-hosted RAG to chat with PDFs, URLs, and knowledge systems
 * 📦 **[vortex-devkit](https://github.com/ankushchhabra02/vortex-devkit)** — all-in-one toolkit for hooks, async utilities & AI helpers
