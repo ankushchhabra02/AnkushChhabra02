@@ -14,6 +14,7 @@ I'm a Computer Science and Engineering graduate from Chandigarh University with 
 
 * 🔥 **[vortex](https://github.com/ankushchhabra02/vortex)** — self-hosted RAG to chat with PDFs, URLs, and knowledge systems
 * 📦 **[vortex-devkit](https://github.com/ankushchhabra02/vortex-devkit)** — all-in-one toolkit for hooks, async utilities & AI helpers
+* 🧩 **[vortex-extension](https://github.com/ankushchhabra02/vortex-extension)** — Chrome extension to ask your Vortex knowledge base from any tab
 * 💬 **[yappr](https://github.com/ankushchhabra02/Yappr)** — real-time chat app with sockets & modern UI
 * 💸 **[LaxmiChitFund](https://github.com/ankushchhabra02/LaxmiChitFund)** — crowdfunding platform with payments integration
 * 📊 **[SubscriptionTracker-API](https://github.com/ankushchhabra02/SubscriptionTracker-API)** — backend for managing subscriptions at scale
